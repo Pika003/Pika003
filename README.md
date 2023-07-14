@@ -1,9 +1,10 @@
+<img width=1000 height=300 src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Satyajit Maity</h1>
 <h3 align="center">A passionate software developer, love to learn new technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pika003&label=Profile%20views&color=0e75b6&style=flat" alt="pika003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pika003" alt="pika003" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
