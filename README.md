@@ -1,10 +1,10 @@
-<img width=1000 height=300 src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Satyajit Maity</h1>
 <h3 align="center">A passionate software developer, love to learn new technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pika003&label=Profile%20views&color=0e75b6&style=flat" alt="pika003" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
